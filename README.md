@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rafay45
+- 👋 Hi, I’m Rafay
 - 👀 I’m interested in Progamming
 - 🌱 I’m currently learning in HTML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rafayy579@gmail.com
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!--
