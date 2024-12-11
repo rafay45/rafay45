@@ -1,4 +1,3 @@
-![logo](https://github.com/rafay45/rafay45/blob/main/clark-tibbs-oqStl2L5oxI-unsplash.jpg)
 <h1 align="center">Hi 👋, I'm Rafay</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
