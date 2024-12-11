@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafay
 - 👀 I’m interested in Progamming
-- 🌱 I’m currently learning in HTML
+- 🌱 I’m currently learning in CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rafayy579@gmail.com
 
