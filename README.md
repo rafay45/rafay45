@@ -1,4 +1,4 @@
-![logo](https://github.com/rafay45/rafay45/blob/main/github%20banner.png)
+![logo](https://github.com/rafay45/rafay45/blob/main/Black%20Modern%20Vlogger%20YouTube%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rafay</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
