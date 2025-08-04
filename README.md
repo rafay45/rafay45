@@ -34,6 +34,6 @@
     <img src="https://streak-stats.demolab.com?user=rafay45&theme=dark&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=400" alt="GitHub Streak" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=rafay45&show_icons=true&locale=en&theme=dark" alt="rafay45" with="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafay45&show_icons=true&locale=en&theme=dark" alt="rafay45" with="700" />
 </p>
 
