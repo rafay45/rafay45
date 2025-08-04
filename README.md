@@ -38,7 +38,7 @@
   src="https://github-readme-stats.vercel.app/api?username=rafay45&show_icons=true&locale=en&theme=dark" 
   alt="rafay45"
   width="400"
-  height="200"
+  height="500"
 />
 
 </p>
