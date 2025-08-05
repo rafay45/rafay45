@@ -58,10 +58,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
 </p>
-
-
-
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=rafay45&theme=dark&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&card_width=400" alt="GitHub Streak" />
@@ -73,6 +69,5 @@
   width="400"
   height="800"
 />
-
 </p>
 
