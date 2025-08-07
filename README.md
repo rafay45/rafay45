@@ -60,7 +60,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/rafay45" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Streak-Active%20%F0%9F%94%A5-brightgreen" alt="GitHub Streak Badge" />
+<img src="https://github-readme-stats.vercel.app/api?username=rafay45&show_icons=true&theme=dark" />
 </a>
   &nbsp;&nbsp;
 <img 
