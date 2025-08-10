@@ -59,7 +59,7 @@
   </a>
 </p>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafay45&theme=dark&card_width=400" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rafay45&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat&theme=dark&card_width=400" alt="GitHub Streak" /></a>
   &nbsp;&nbsp;
 <img 
   src="https://github-readme-stats.vercel.app/api?username=rafay45&show_icons=true&locale=en&theme=dark" 
